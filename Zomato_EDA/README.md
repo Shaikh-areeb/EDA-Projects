@@ -11,14 +11,21 @@ Rating Analysis: Understanding the factors that influence restaurant ratings, in
 Price Analysis: Analyzing the price ranges of restaurants and their correlation with other features like ratings, location, and cuisine.
 Correlation Analysis: Identifying relationships between different features in the dataset, such as the correlation between ratings and prices.
 Tools and Libraries Used:
+
 Pandas: For data manipulation and analysis.
+
 Matplotlib & Seaborn: For creating visualizations to represent the data graphically.
+
 NumPy: For numerical operations and handling arrays.
+
 Geopandas: For geographical data analysis and visualization.
+
 Plotly: For interactive visualizations.
+
 Insights Gained:
 Identification of top cuisines and locations that attract higher ratings.
 Analysis of how pricing varies across different regions and cuisines.
 Insights into the factors contributing to a restaurant's success based on ratings and reviews.
+
 Conclusion:
 The EDA of the Zomato dataset provides valuable insights into the restaurant industry, highlighting key factors that influence restaurant ratings, pricing, and customer preferences. These findings can be used to make data-driven decisions for restaurant management and marketing strategies.
