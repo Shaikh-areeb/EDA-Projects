@@ -3,7 +3,7 @@ The Exploratory Data Analysis (EDA) on the Zomato dataset aims to uncover insigh
 
 Key Objectives:
 Data Cleaning: Handling missing values, removing duplicates, and correcting inconsistencies to ensure the dataset is ready for analysis.
-Descriptive Statistics: Summarizing key statistics of the dataset, such as mean, median, mode, and distribution of variables.
+Descriptive Statistics: Summarizing key statistics of the dataset, such as mean, median, mode, and distribution of variables. 
 Visualizations: Creating visual representations to identify trends, outliers, and correlations among different features.
 Geographical Analysis: Exploring restaurant distribution based on location, identifying popular areas, and analyzing regional trends.
 Cuisine Analysis: Examining the variety of cuisines offered, their popularity, and their impact on restaurant ratings and pricing.
