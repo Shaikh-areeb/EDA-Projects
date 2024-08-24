@@ -1,10 +1,10 @@
 FIFA Dataset Exploratory Data Analysis (EDA)
 
-Overview
+OVERVIEW
 
 This project involves an in-depth Exploratory Data Analysis (EDA) on the FIFA dataset, which contains comprehensive information about football players from across the globe. The dataset includes attributes such as player statistics, physical attributes, club and nationality data, and much more. This analysis aims to uncover patterns, correlations, and insights within the data to better understand what makes a great football player.
 
-Objectives
+OBJECTIVES
 
 Understand the Data Structure: Analyze the dataset to understand its structure, including the types of features (numerical, categorical), missing values, and distribution of data.
 
@@ -20,7 +20,7 @@ Top Player Characteristics: Determine the characteristics of top players across 
 
 Trends Over Time: If the dataset includes historical data, analyze how player ratings and attributes have evolved over time.
 
-Tools and Libraries
+TOOLS AND LIBRARIES
 
 Python: The analysis is conducted using Python, leveraging various data analysis libraries.
 Pandas: For data manipulation and analysis.
@@ -28,12 +28,13 @@ Matplotlib & Seaborn: For data visualization.
 NumPy: For numerical operations.
 Scikit-learn: For statistical analysis and potential modeling.
 
-Key Findings
+KEY FINDINGS
 
 Distribution of Player Ratings: Visualized the distribution of player ratings and identified the top players in the dataset.
 Correlation Analysis: Found significant correlations between certain player attributes and overall ratings.
 Club and Nationality Insights: Highlighted clubs and countries with a higher concentration of top-rated players.
 Value and Wage Trends: Analyzed how player value and wage are distributed and what factors significantly influence these metrics.
 
-Conclusion
+CONCLUSION
+
 This EDA provides a comprehensive understanding of the FIFA dataset, offering valuable insights into the factors that contribute to player performance and market value. 
