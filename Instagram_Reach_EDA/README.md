@@ -1,4 +1,4 @@
-nstagram Reach Exploratory Data Analysis (EDA)
+Instagram Reach Exploratory Data Analysis (EDA)
 This project delves into an exploratory data analysis (EDA) of Instagram reach metrics. The goal is to uncover patterns, trends, and insights within the data to better understand factors influencing reach on the platform.
 
 Key components of the analysis include:
